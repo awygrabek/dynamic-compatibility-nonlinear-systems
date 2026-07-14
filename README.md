@@ -14,10 +14,10 @@ The objective of this repository is to allow independent researchers to reproduc
 
 Current stage:
 
-- Repository construction
+- Repository released (v1.0.0)
 - Code audit completed
 - Notebook audit completed
-- Reproducibility preparation in progress
+- Reproducibility package completed
 
 ---
 
@@ -59,7 +59,7 @@ Each notebook will contain:
 
 ## License
 
-License information will be added before publication.
+This repository is distributed under the MIT License.
 
 ---
 
@@ -71,10 +71,10 @@ https://github.com/awygrabek/dynamic-compatibility-nonlinear-systems
 
 ## Citation
 
-Citation information will be added before publication.
+Citation information is available in CITATION.cff.
 
 ---
 
 ## Status
 
-Work in progress.
+Version 1.0.0 released.
