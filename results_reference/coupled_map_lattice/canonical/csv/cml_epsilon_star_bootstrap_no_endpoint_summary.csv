@@ -1,0 +1,2 @@
+eps_min,eps_max,orig_epsilon_star,orig_peak_score,bootstrap_epsilon_star_mean,bootstrap_epsilon_star_median,bootstrap_epsilon_star_std,bootstrap_epsilon_star_q05,bootstrap_epsilon_star_q95,bootstrap_peak_mean,bootstrap_peak_std,bootstrap_peak_q05,bootstrap_peak_q95,p_epsilon_star_within_0p02,p_epsilon_star_within_0p04,n_bootstrap
+0.02,0.9,0.18,0.7484545086316226,0.181,0.18,0.045948040707844987,0.18,0.18,0.752876024511165,0.10319866552067529,0.5853816804886247,0.9215203713308694,0.986,0.986,500

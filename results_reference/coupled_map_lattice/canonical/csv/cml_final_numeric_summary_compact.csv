@@ -1,0 +1,2 @@
+epsilon_star,window_min,window_max,peak_score,shuffle_peak_mean,shuffle_peak_std,shuffle_p_ge_original,shuffle_epsilon_star_mean,shuffle_epsilon_star_std,bootstrap_eps_mean,bootstrap_eps_median,bootstrap_eps_std,bootstrap_eps_q05,bootstrap_eps_q95,bootstrap_peak_mean,bootstrap_peak_std,bootstrap_p_within_002,bootstrap_p_within_004
+0.18,0.16,0.18,0.7863110669732499,0.4541677715254276,0.0701927672224721,0.0,0.5082,0.4216153210663909,0.181,0.18,0.0459480407078449,0.18,0.18,0.752876024511165,0.1031986655206752,0.986,0.986

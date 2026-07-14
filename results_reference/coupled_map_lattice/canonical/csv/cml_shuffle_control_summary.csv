@@ -1,0 +1,2 @@
+orig_epsilon_star,orig_peak_score,shuffle_peak_mean,shuffle_peak_std,shuffle_epsilon_star_mean,shuffle_epsilon_star_std,p_peak_ge_original,p_epsilon_star_within_0p02,n_shuffles
+0.18,0.7656098373095557,0.4541677715254276,0.07019276722247211,0.5082,0.4216153210663909,0.0,0.012,500

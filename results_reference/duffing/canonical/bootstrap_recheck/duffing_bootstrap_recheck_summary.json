@@ -1,0 +1,21 @@
+{
+  "system": "Duffing",
+  "N_points": 5667,
+  "N_bootstrap": 500,
+  "delta_grid_min": 0.02,
+  "delta_grid_max": 3.0,
+  "N_delta": 600,
+  "seed": 123,
+  "original_delta_star_global": 2.0099833055091816,
+  "original_delta_star_local": 0.08467445742904842,
+  "bootstrap_global_mean": 1.7791551919866442,
+  "bootstrap_global_median": 1.823422370617696,
+  "bootstrap_global_std": 0.2681454419070354,
+  "bootstrap_global_ci95_low": 1.3781636060100166,
+  "bootstrap_global_ci95_high": 2.333355592654424,
+  "bootstrap_local_mean": 0.0842167612687813,
+  "bootstrap_local_median": 0.08467445742904842,
+  "bootstrap_local_std": 0.02092732964142067,
+  "bootstrap_local_ci95_low": 0.05482470784641068,
+  "bootstrap_local_ci95_high": 0.1194991652754591
+}

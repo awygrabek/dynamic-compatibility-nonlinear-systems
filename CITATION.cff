@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated preprint and this software release."
+title: "Dynamic Compatibility and Reorganization Across Nonlinear Systems"
+type: software
+authors:
+  - family-names: "Adanio19"
+version: "1.0.0"
+date-released: "2026-07-12"
+license: MIT
+abstract: >-
+  Research notebooks, reference results, and supplementary materials for
+  the study of dynamic compatibility, reorganization windows, metastability,
+  memory, recovery, topology robustness, and related mechanisms across
+  nonlinear dynamical systems.
+keywords:
+  - nonlinear dynamics
+  - dynamic compatibility
+  - reorganization window
+  - Lorenz system
+  - Rossler system
+  - Duffing oscillator
+  - Kuramoto model
+  - Stuart-Landau oscillators
+  - coupled map lattice
+repository-code: "https://github.com/awygrabek/dynamic-compatibility-nonlinear-systems"
