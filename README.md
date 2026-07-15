@@ -71,7 +71,13 @@ https://github.com/awygrabek/dynamic-compatibility-nonlinear-systems
 
 ## Citation
 
-Citation information is available in CITATION.cff.
+### Publication
+Dynamic Compatibility and Reorganization Across Nonlinear Systems
+DOI: https://doi.org/10.5281/zenodo.20707914
+
+### Software
+Dynamic Compatibility and Reorganization Across Nonlinear Systems – Reproducibility Package
+DOI: https://doi.org/10.5281/zenodo.21364534
 
 ---
 
